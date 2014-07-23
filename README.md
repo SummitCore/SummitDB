@@ -1,4 +1,3 @@
-Summit-DB
-=========
+#SummitDB
 
 Database for Summit
